@@ -5,7 +5,6 @@
 
 - 🔭 I'm not working at the moment =/
 - 🌱 I’m currently learning HTML, CSS, JavaScript and React
-- 🤔 I’m looking for help with React
 - 📫 How to reach me **comododk@gmail.com**
 - ⚡ I'm studying at [Rocketseat](https://app.rocketseat.com.br/me/dkzord)
 
