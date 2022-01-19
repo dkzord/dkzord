@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I'm working at moment in the [PliQ](https://www.pliq.io)!!! <3
+- 🔭 I'm working \o/
 - 🌱 I’m currently learning HTML, CSS, JavaScript and React
 - 📫 How to reach me **comododk@gmail.com**
 - ⚡ I'm studying at [Rocketseat](https://app.rocketseat.com.br/me/dkzord)
