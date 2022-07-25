@@ -1,5 +1,5 @@
 <h1 align="center">Hi!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Fernando Cavalcanti</h1>
-<h3 align="center">A web development student focused on the front-end</h3>
+<h3 align="center">Develop FullStack</h3>
 
 - 🔭 I'm working with React and Node
 - 📫 How to reach me **comododk@gmail.com**
