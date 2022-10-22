@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/dkzord/dkzord/blob/output/github-contribution-grid-snake.svg)
 
 ###
